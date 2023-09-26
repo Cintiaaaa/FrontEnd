@@ -1,0 +1,92 @@
+body {
+  background-image: url("../img/vegetais.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  font-size: 20px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  background-image: url("img/saudavel.jpg");
+  padding-bottom: 10px;
+  font-family: "Skranji", cursive;
+  color: rgb(130, 173, 86);
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+}
+
+.menu {
+  background-color: beige;
+  margin-bottom: 40px;
+}
+.boasvindas {
+  color: darkgreen;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  width: 70%;
+  height: 450px;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff10;
+  border: 2px solid #ffffff30;
+  backdrop-filter: blur(10px);
+}
+.Cadastro {
+  margin-left: 200px;
+  width: 70%;
+  height: 450px;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #ffffff10;
+  border: 2px solid #ffffff30;
+  backdrop-filter: blur(10px);
+}
+
+.entradas {
+  text-align: center;
+}
+
+.texto {
+  text-align: left;
+  width: 500px;
+}
+
+.apresentacao {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.menu a:hover {
+ margin:0;
+  text-align: center;
+  background-size: 0%;
+  background-color: rgb(147, 194, 133);
+}
+
+.whatsapp {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 80px;
+  height: 80px;
+}
+img {
+  float: inline-start;
+}
+.contatos {
+  text-align: center;
+  justify-content: center;
+  font-size: 40px;
+}

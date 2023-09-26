@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: rgb(184, 11, 132);
+}
+
+p {
+  color: darkorchid;
+  font-size: 56px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
